@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar Fundamentals",
+      "slug": "guitar-fundamentals",
+      "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "https://media.istockphoto.com/id/596345112/photo/learning-to-play-the-guitar-music-education-and-extra-curricular-lessons.jpg?s=612x612&w=0&k=20&c=YTtDp4kv_ugXiasWSkmoYoeoZZndfZyNAFVEMW_Q__w="
+    },
+    {
+      "id": 2,
+      "title": "Piano for Beginners",
+      "slug": "piano-for-beginners",
+      "description": "Start your journey with piano by learning notes, scales, and basic songs.",
+      "price": 89.99,
+      "instructor": "Jane Smith",
+      "isFeatured": true,
+      "image": "https://www.ed2go.com/common/images/1/17216.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Drumming 101",
+      "slug": "drumming-101",
+      "description": "Kickstart your rhythm skills with this beginner-friendly drumming course.",
+      "price": 79.99,
+      "instructor": "Mike Taylor",
+      "isFeatured": false,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyRfbSDqyJzlMVefBxsWfnGifCB_-pNMj1Fzuf8PkYTpW-6SvQucv-TVk51Z_LdRFZslQ&usqp=CAU"
+    },
+    {
+      "id": 4,
+      "title": "Violin Mastery",
+      "slug": "violin-mastery",
+      "description": "Master the violin with techniques, posture, and classical pieces.",
+      "price": 109.99,
+      "instructor": "Emily Rose",
+      "isFeatured": true,
+      "image": "https://media.istockphoto.com/id/1239091337/photo/teenager-playing-rock-and-roll-at-home.jpg?s=612x612&w=0&k=20&c=wGKuWMSZfpH5vB_CB5R_auIsW4OCMsRGMlIccEHECGU="
+    },
+    {
+      "id": 5,
+      "title": "Music Theory Essentials",
+      "slug": "music-theory-essentials",
+      "description": "Understand music theory concepts to enhance your playing and writing.",
+      "price": 59.99,
+      "instructor": "Dr. Melody Lane",
+      "isFeatured": false,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFr1T9EhNZSsaVcXTXP0VlvCnj1kSVZABbbQ&s"
+    },
+    {
+      "id": 6,
+      "title": "Singing for Beginners",
+      "slug": "singing-for-beginners",
+      "description": "Develop your vocal range, tone, and pitch with guided exercises.",
+      "price": 69.99,
+      "instructor": "Sarah Tune",
+      "isFeatured": true,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNHgDCF0B8IBgobrJGe0vsgwpjVIIOM5z-DA&s"
+    },
+    {
+      "id": 7,
+      "title": "Advanced Jazz Techniques",
+      "slug": "advanced-jazz-techniques",
+      "description": "Explore the advanced world of jazz improvisation and chord progressions.",
+      "price": 119.99,
+      "instructor": "Louis Armstrong",
+      "isFeatured": true,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHKfPmFKUmoYstLcO_VaEO9CNBdNlPqzqjEg&s"
+    },
+    {
+      "id": 8,
+      "title": "Electronic Music Production",
+      "slug": "electronic-music-production",
+      "description": "Learn how to produce electronic music with DAWs and synthesizers.",
+      "price": 129.99,
+      "instructor": "DJ Nova",
+      "isFeatured": true,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSXzZu9M6iqgZIJSjyUafpbfzAWeyXTSWvFS8YQe3SeB4ij9g789JNI1_avkYdhfTPNs0&usqp=CAU"
+    },
+    {
+      "id": 9,
+      "title": "Classical Compositions",
+      "slug": "classical-compositions",
+      "description": "Dive deep into classical music theory and famous compositions.",
+      "price": 139.99,
+      "instructor": "Beethoven Masterclass",
+      "isFeatured": false,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGcf9Xy4AZeFglDlXmp5ZDCCE5U6A6A-XMW4EyoNHdOJjZWrtMd6T3lf922mAigt5T9wI&usqp=CAU"
+    },
+    {
+      "id": 10,
+      "title": "Rap & Hip Hop Mastery",
+      "slug": "rap-hiphop-mastery",
+      "description": "Master rhythm, flow, and lyric writing in rap and hip-hop.",
+      "price": 74.99,
+      "instructor": "MC Lyricist",
+      "isFeatured": true,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrWFf_-o_RBl8X5MWYFSgE880f2i2Cb5TVfKK4eWug9SYS1aEN8mX8I1Vl8YC6s_kqO2c&usqp=CAU"
+    }
+  ]
+}
