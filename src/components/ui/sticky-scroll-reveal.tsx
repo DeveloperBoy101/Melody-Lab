@@ -61,7 +61,7 @@ export const StickyScroll = ({
       animate={{
         backgroundColor: backgroundColors[activeCard % backgroundColors.length],
       }}
-      className="relative flex h-[30rem] justify-between rounded-md px-6 scrollbar-hide overflow-y-auto"
+      className="relative flex h-[30rem] justify-between rounded-md px-6  overflow-y-auto"
       ref={ref}
     >
       {/* Left Side (Text) */}
