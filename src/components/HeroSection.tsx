@@ -9,8 +9,6 @@ const HeroSection = () => {
   return (
     <div className="relative flex flex-col items-center justify-center h-auto md:h-[40rem] w-full overflow-hidden rounded-md py-10 md:py-0 bg-black">
       <BackgroundBoxes className="top-[-30%] left-[-20%] fill-white" />
-
-      {/* ✅ Animate From Bottom */}
       <motion.div
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
@@ -22,8 +20,8 @@ const HeroSection = () => {
         </h1>
         <p className="mt-4 text-base md:text-lg max-w-lg mx-auto font-normal bg-clip-text text-transparent bg-gradient-to-b from-white to-neutral-400">
           Dive into your comprehensive music courses and transform your journey
-          today. Whether you're a beginner or looking to refine your skills, join
-          us to unlock your true potential.
+          today. Whether you're a beginner or looking to refine your skills,
+          join us to unlock your true potential.
         </p>
         <div className="mt-6">
           <Link href="/courses">
